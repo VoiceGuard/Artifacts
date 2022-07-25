@@ -141,3 +141,9 @@ Example of malicious voice command when `-9` in `rssi.txt`
 07/24/2022 17:49:04.623 | rssi verification failed. Value is -9. Discard voice command packets.
 07/24/2022 17:49:04.623 | ---------------delay ends for 5 seconds---------------
 ```
+
+## Screenshot of App UI
+
+Here we display a screenshot of the app when measuring the RSSI values of the Echo Dot.
+
+![](appUI.png)
