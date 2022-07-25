@@ -109,6 +109,9 @@ press any key at any time to start rssi verification...
 
 The packet-holding function is disabled by default and you must press any key to enable the packet-holding function, as prompted in the first line. It displays lengths of TLS packets originated from the Echo Dot, which are labeled as *Application Data* in the unencrypted TLS record header. The proxy program automatically checks packet-length sequence of the new session establishment and retrieves the IP address of the AVS server if the packet-length sequence matches the known pattern, which is `63, 33, 653, 131, 73, 131, 188, 73, 131, 73, 131, 73, 131, 77, 33, 33`.
 
+
+### Voice command recognition and packet holding
+
 To hold the network packets, you can press any key to enable it. After that, the program will try to match the known traffic pattern of the first phase (as listed in Table 5 in the paper) and start packet-holding if recognizes a voice command. In the example below, `277,131,5861,75,138` matches the known pattern of the first phase. For the purpose of demonstrating the packet-holding process, here we delay the voice command for 5 seconds by default. 
 
 ```ruby
@@ -138,4 +141,3 @@ Example of malicious voice command when `-9` in `rssi.txt`
 07/24/2022 17:49:04.623 | rssi verification failed. Value is -9. Discard voice command packets.
 07/24/2022 17:49:04.623 | ---------------delay ends for 5 seconds---------------
 ```
-
