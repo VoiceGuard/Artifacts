@@ -1,0 +1,235 @@
+# Legitimate voice commands when Amazon Echo Dot is deployed at the first location at the second testbed. 
+# RSSI threshold is set to -6.
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '-10', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-10', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '0'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-3', 'pixel4a': '-9'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-8'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-8'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-8', 'pixel4a': '-9'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-8'}
+
+
+RSSI: {'pixel5': '-8', 'pixel4a': '-9'}
+
+
+RSSI: {'pixel5': '-2', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-1', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-2', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-3', 'pixel4a': '-10'}
+
+
+RSSI: {'pixel5': '-3', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-2', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-8', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-9', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '-10', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '0'}
+
+
+RSSI: {'pixel5': '-10', 'pixel4a': '-1'}
+
+
+RSSI: {'pixel5': '-11', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '-10', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-10', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '0'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '0'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '0'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '0'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '0'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-10'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-7'}
+
+
+RSSI: {'pixel5': '-5', 'pixel4a': '-13'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-3', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '0', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-1', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-4', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '0', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-3', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-1', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '0', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '0', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '0', 'pixel4a': '-999'}
+
+
+RSSI: {'pixel5': '-16', 'pixel4a': '-2'}
+
+
+RSSI: {'pixel5': '-17', 'pixel4a': '-1'}
+
+
+RSSI: {'pixel5': '-12', 'pixel4a': '-2'}
+
+
+RSSI: {'pixel5': '-16', 'pixel4a': '-5'}
+
+
+RSSI: {'pixel5': '-17', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-16', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-15', 'pixel4a': '-2'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}
+
+
+RSSI: {'pixel5': '-13', 'pixel4a': '-7'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-3'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-2'}
+
+
+RSSI: {'pixel5': '-999', 'pixel4a': '-4'}

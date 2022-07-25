@@ -1,0 +1,142 @@
+# Malicious voice commands when Amazon Echo Dot is deployed at the first location at the third testbed. 
+# RSSI threshold is set to -6.
+
+RSSI: {'galaxywatch4(yj6p)': '-11'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-13'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-15'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-12'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-8'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-7'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-13'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-12'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-13'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-17'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-20'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-21'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-13'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-10'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-8'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-14'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-15'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-20'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-16'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-12'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-16'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-19'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-14'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-12'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-8'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-7'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-9'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-10'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-11'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-15'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-14'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-13'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-11'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-12'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-10'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-9'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-8'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-19'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-20'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-16'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-17'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-14'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-18'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-10'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-17'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-8'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-10'}

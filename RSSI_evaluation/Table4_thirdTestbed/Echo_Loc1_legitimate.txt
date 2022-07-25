@@ -1,0 +1,256 @@
+# Legitimate voice commands when Amazon Echo Dot is deployed at the first location at the third testbed. 
+# RSSI threshold is set to -6.
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-8'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-7'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-1'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-7'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-5'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-4'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-3'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '-2'}
+
+
+RSSI: {'galaxywatch4(yj6p)': '0'}
