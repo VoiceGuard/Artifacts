@@ -144,6 +144,6 @@ Example of malicious voice command when `-9` in `rssi.txt`
 
 ## Screenshot of App UI
 
-Here we display a screenshot of the app when measuring the RSSI values of the Echo Dot.
+Here we show a screenshot of the app when measuring the RSSI values of the Echo Dot. Note that this app can be automatically activated in the background via FCM messages to measure the current RSSI value of the Echo Dot without user involvement.
 
 ![](appUI.png)
